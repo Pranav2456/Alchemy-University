@@ -1,0 +1,180 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "C:\\Users\\prana\\Documents\\Local-Hardhat-Games\\contracts\\Game1.sol": {
+      "lastModificationDate": 1700795688662,
+      "contentHash": "a82ea76d75a4571f60653f6e77cb8bfd",
+      "sourceName": "contracts/Game1.sol",
+      "solcConfig": {
+        "version": "0.8.17",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.17"
+      ],
+      "artifacts": [
+        "Game1"
+      ]
+    },
+    "C:\\Users\\prana\\Documents\\Local-Hardhat-Games\\contracts\\Game2.sol": {
+      "lastModificationDate": 1700795688663,
+      "contentHash": "4f548cef827a60b14e468cd559a5bfbd",
+      "sourceName": "contracts/Game2.sol",
+      "solcConfig": {
+        "version": "0.8.17",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.17"
+      ],
+      "artifacts": [
+        "Game2"
+      ]
+    },
+    "C:\\Users\\prana\\Documents\\Local-Hardhat-Games\\contracts\\Game3.sol": {
+      "lastModificationDate": 1700795688663,
+      "contentHash": "2867d63d936ce7f19daaf5a422078a85",
+      "sourceName": "contracts/Game3.sol",
+      "solcConfig": {
+        "version": "0.8.17",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.17"
+      ],
+      "artifacts": [
+        "Game3"
+      ]
+    },
+    "C:\\Users\\prana\\Documents\\Local-Hardhat-Games\\contracts\\Game4.sol": {
+      "lastModificationDate": 1700795688663,
+      "contentHash": "fdd3b06ec8ce6a4f9217d623787b88ff",
+      "sourceName": "contracts/Game4.sol",
+      "solcConfig": {
+        "version": "0.8.17",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.17"
+      ],
+      "artifacts": [
+        "Game4"
+      ]
+    },
+    "C:\\Users\\prana\\Documents\\Local-Hardhat-Games\\contracts\\Game5.sol": {
+      "lastModificationDate": 1700795688664,
+      "contentHash": "f72dc13970c00c2783f8cd59c5a181b7",
+      "sourceName": "contracts/Game5.sol",
+      "solcConfig": {
+        "version": "0.8.17",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.17"
+      ],
+      "artifacts": [
+        "Game5"
+      ]
+    }
+  }
+}
